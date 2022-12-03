@@ -1,1 +1,1 @@
--- Ocean Hackathon 202-- Ocean Hackathon 2022
+-- Ocean Hackathon 2022
